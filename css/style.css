@@ -1,0 +1,38 @@
+:root {
+  --nav: #161b22;
+  --background: #0d1117;
+}
+
+body {
+  background-color: var(--background);
+}
+
+.navbar {
+  background-color: var(--nav);
+}
+
+.collapse .navbar-nav .nav-item .nav-link {
+  color: #fff;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.quem-somos {
+  color: #fff;
+}
+
+.parceiros {
+  background-color: var(--nav);
+}
+
+.modelos {
+  background-color: var(--background);
+}
+
+.footer {
+  background-color: var(--nav);
+  color: #fff;
+}
